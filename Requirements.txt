@@ -1,0 +1,13 @@
+1.General
+	a. Roles
+		* Admin
+		* Users
+
+
+
+2. Inventory
+	a. Currently Available
+	b. Forcasted Available
+		* Incoming products
+		* Outgoing products
+	c. Location
